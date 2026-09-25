@@ -1,5 +1,5 @@
 
-  fetch('https://chl-ccdde8bd-d1b4-4896-99af-e358dc89319d-blog-hacklab-v2.softwareseguro.com.ar/comments', {
+  fetch('https://chl-ccdde8bd-d1b4-4896-99af-e358dc89319d-blog-hacklab-v2.softwareseguro.com.ar/comment', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded'
