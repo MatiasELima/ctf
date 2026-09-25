@@ -7,7 +7,7 @@
   formData.append("bio", carga); 
   formData.append("profile_pic", new Blob([""]), "");
 
-  fetch('https://chl-ccdde8bd-d1b4-4896-99af-e358dc89319d-blog-hacklab-v2.softwareseguro.com.ar/biographies', {
+  fetch('https://chl-ccdde8bd-d1b4-4896-99af-e358dc89319d-blog-hacklab-v2.softwareseguro.com.ar/profile', {
     method: 'POST',
     body: formData
 
